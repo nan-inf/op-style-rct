@@ -1,0 +1,53 @@
+{
+    "styles": [
+        {
+            "name": "RCT2 Bordeaux Red",
+            "author": "NaNInf",
+            "description": "A clone of the bordeaux red menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/bordeaux-red.png",
+            "style": "styles/bordeaux-red.toml"
+        },
+        {
+            "name": "RCT2 Dark Yellow",
+            "author": "NaNInf",
+            "description": "A clone of the dark yellow menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/dark-yellow.png",
+            "style": "styles/dark-yellow.toml"
+        },
+        {
+            "name": "RCT2 Olive Green",
+            "author": "NaNInf",
+            "description": "A clone of the olive green menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/olive-green.png",
+            "style": "styles/olive-green.toml"
+        },
+        {
+            "name": "RCT2 Dark Green",
+            "author": "NaNInf",
+            "description": "A clone of the dark green menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/dark-green.png",
+            "style": "styles/dark-green.toml"
+        },
+        {
+            "name": "RCT2 Light Purple",
+            "author": "NaNInf",
+            "description": "A clone of the light purple menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/light-purple.png",
+            "style": "styles/light-purple.toml"
+        },
+        {
+            "name": "RCT2 Dark Brown",
+            "author": "NaNInf",
+            "description": "A clone of the dark brown menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/dark-brown.png",
+            "style": "styles/dark-brown.toml"
+        },
+        {
+            "name": "RCT2 Light Blue",
+            "author": "NaNInf",
+            "description": "A clone of the light blue menu windows from RollerCoaster Tycoon 2.",
+            "screenshot": "screenshots/light-blue.png",
+            "style": "styles/light-blue.toml"
+        }
+    ]
+}
